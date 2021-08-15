@@ -1,15 +1,13 @@
-It's my honor to introduce the mini project "neural network sample" to you.
+按照以下步骤操作：
 
-If you try to use it, you must follow below steps:
+0.通过IDEA/EClipse打开这个项目
 
-0.Open this project via IDEA/EClipse
+1.在矩形中输入数字(0~9)，然后点击“学习”告诉软件你所写的数字。
 
-1.Write number(0~9) into the rectangle, then click "tell num" to tell software the number you have written. 
+2.重复步骤1五百次以上，然后转到步骤3
 
-2.Repeate step 1 five hundred times or more, then go to step 3
+3.点击“记忆”按钮，等待训练完成
 
-3.Click "train" button and wait training complete
-
-4.Write number(0~9) into the rectangle, then click "test". The software will tell you the number it thought you write.
+4.在矩形中写入数字(0~9)，然后单击“测试”。 该软件会告诉您它认为您写的数字。
 
 # CNN
